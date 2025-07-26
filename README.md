@@ -6,7 +6,7 @@ This repository contains my practice exercises focused on JavaScript **array met
 
 ## 📄 Problem Descriptions
 
-Each exercise is accompanied by a `.txt` file that contains the **problem statement**.  
+Each exercise is accompanied by a `.md` file that contains the **problem statement**.  
 This text file clearly describes what the code is intended to solve.
 
 ---
@@ -21,3 +21,8 @@ Each practice file follows this format:
 // Improve Solution
 
 // Test Case
+
+
+---
+
+Use Quokka.js for a better and faster testing experience.

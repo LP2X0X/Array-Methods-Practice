@@ -11,7 +11,7 @@ function camelize(str) {
 
 // Improved Solution
 
-// TEST
+// Test Case
 camelize("background-color") === "backgroundColor";
 camelize("list-style-image") == "listStyleImage";
 camelize("-webkit-transition") == "WebkitTransition";
